@@ -1,4 +1,4 @@
-# Contribuir al proyecto
+# Colaborar en el proyecto
 
 La forma más eficaz si quieres contribuir al proyecto con cambios en los textos es registrarte como usuario en Github y editar el archivo **md** correspondiente al tema que quieras cambiar. Al terminar, pulsa el botón verde `Propose file change` que se encuentra al final de la página para solicitar el cambio del fichero. Te agradecería que en la caja de texto que está encima del botón indicases si quieres que aparezca tu nombre como contribuyente.   
 Finalmente, una vez que consideres que has hecho todas las modificaciones, verás otro botón verde `Create pull request` que tienes que pulsar para que me llegue una notificación.  

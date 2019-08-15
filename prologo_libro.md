@@ -1,3 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+  <title>Diferencias Individuales</title>
+  <link href="styles.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+
 # Apuntes de psicología de las diferencias individuales - UNED
 ## Autora: Cari Blanco Rodríguez
 
@@ -13,4 +23,5 @@ Para generarlo se ha empleado el editor de e-book que viene incluído en la apli
 
 La última versión de los ficheros que forman parte de este proyecto se pueden encontrar en <https://github.com/luigli/ApuntesPsicoDiferenciasIndividuales>. Se anima a todos los interesados a participar, aportando sugerencias o correcciones.
 
-Para el que quiera conocer un poco acerca de qué es **Github**, el sitio en el que está alojado este proyecto, puede leer algo por ejemplo aquí: <https://www.hostinger.es/tutoriales/que-es-github>
+</body>
+</html>

@@ -80,9 +80,9 @@
             "problemMatcher": []
         },
         {
-            "label": "Compilar Markdown Readme",
+            "label": "Compilar Markdown Prólogo",
             "type": "shell",
-            "command": "markdown-it README.md -o README.xhtml",
+            "command": "markdown-it prologo_libro.md -o prologo_libro.xhtml",
             "problemMatcher": []
         }
 

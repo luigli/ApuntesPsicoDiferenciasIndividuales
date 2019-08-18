@@ -327,7 +327,10 @@ Es decir, a pesar de los cambios que con el paso del tiempo puedan darse en tér
 * Es más **estable en la vida adulta**. **A partir de los 50** años los rasgos de personalidad son **esencialmente fijos**.
 * Aunque se constata la estabilidad general del rasgo, hay **diferencias individuales en la estabilidad durante el desarrollo**. Están por determinar las influencias ambientales en el cambio.
 * Las **puntuaciones** en los tests de personalidad **cambian a lo largo del ciclo vital**. Estos cambios parecen estar completamente marcados antes de los 30 años, triviales después de esta edad, y sorprendentemente consistentes en diferentes culturas.
-* Es **más clara la estabilidad de la inteligencia que** la estabilidad **de la personalidad**. Las medidas de rendimiento intelectual muestran los mayores niveles de continuidad; las siguientes son variables de personalidad tales como los cinco grandes; y las últimas, actitudes políticas y opinión que uno tiene de sí mismo (autoestima, satisfacción con la vida, etc.).
+* Es **más clara la estabilidad de la inteligencia** que la estabilidad de la personalidad. Según **Conley** (1984), ordenado de más estable a menos estable:
+  1. Medidas de rendimiento **intelectual**
+  2. Variables de **personalidad** (los 5 grandes)
+  3. Actitudes **políticas** / Opinión sobre **uno mismo** (autoestima, satisfacción con la vida)
 
 <nav>pág. 580</nav>
 

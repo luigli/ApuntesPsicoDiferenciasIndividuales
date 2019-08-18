@@ -8,12 +8,11 @@
 
 <body>
 
-
 # Tema 3. Marco conceptual de la psicología de las diferencias individuales.
 
-<nav>pág. 104</nav>
+## 1. Introducción
 
-## 1\. Introducción
+<nav>pág. 104</nav>
 
 Los términos “Psicología Diferencial” y “Psicología de las Diferencias Individuales” se **usan indistintamente**; quizás el último sea más acorde con el objeto y objetivos actuales, ya que enfatiza el verdadero objeto de estudio de esta rama de la psicología y la devuelve a sus auténticas raíces. Estas raíces permiten estudiar el hecho de la variabilidad y la individualidad humana, junto a los mecanismos biológicos, psicológicos y ambientales que las explican.
 
@@ -114,7 +113,7 @@ El objeto de estudio de la disciplina aborda el estudio de tres grandes tipos de
         *   La **formación y organización individual** que las distintas características adquieren en una persona, analizando la preponderancia que unos rasgos y capacidades tienen frente a otros otorgándole, así, su individualidad. Al interactuar con el ambiente, da lugar a las expresiones conductuales del individuo. Las diferencias individuales son de **carácter sincrónico** y pueden cambiar o automodificarse (reversibles).
         *   El **cambio individual** responde a una consideración **longitudinal** de la variación, o los cambios intraindividuales o **diacrónicos**. Implican transformaciones evolutivas por lo general irreversibles, que a su vez son precursoras de diferencias entre individuos.
 *   Variabilidad entre Grupos o Diferencias **Intergrupales**
-    *   la Psicología Diferencial estudia la existencia de diferencias psicológicas entre grupos de personas (el término grupo no tiene connotación sociológica, hace alusión a la suma de individuos con una característica común de agrupación -raza, edad…).
+    *   La Psicología Diferencial estudia la existencia de diferencias psicológicas entre grupos de personas (el término grupo no tiene connotación sociológica, hace alusión a la suma de individuos con una característica común de agrupación -raza, edad…).
     *   Los estudios pueden ser de dos tipos:
         *   **Grupos naturales**: su origen viene dado por la propia naturaleza de las variables consideradas, sin la intervención del experimentador (edad, sexo, clase social, raza, etc.). Los estudios sobre diferencias intergrupales tienden a interpretar, equivocadamente, que el origen de las diferencias intergrupales es el mismo que da lugar a las diferencias interindividuales dentro de un mismo grupo. La comparación entre grupos suele ignorar en sus interpretaciones la propia heterogeneidad intragrupo; es mayor la variabilidad existente entre los individuos de un mismo grupo en una variable dada, que la existente entre grupos distintos de individuos.
 
@@ -223,43 +222,14 @@ Otros acercamientos se han destinado a esclarecer la forma en que interactúan l
 
 <nav>pág. 120</nav>
 
-<table border="1">
 
-<tbody>
 
-<tr>
+||Correlación Genes-Ambientes (Sandra Scarr)|
+|---|---|
+| **Pasiva** | Padres e hijos comparten genes y ambiente. Los hijos reciben de forma pasiva ambientes asociados a sus inclinaciones genéticas. Ej. Los hijos de padres inteligentes recibirán, con mayor probabilidad, no solo una herencia favorable, sino un entorno más propicio para el desarrollo intelectual.|
+| **Activa** | Se produce cuando una persona que presenta una característica heredada determinada busca de forma activa, selecciona y crea situaciones psicológicas y ambientales que conducen y favorecen el desarrollo de dicha característica. Ej, una persona extravertida generará situaciones de contacto social, que a su vez reforzarán su propia tendencia.|
+|**Reactiva**|Tiene lugar cada vez que una persona recibe una reacción del ambiente en respuesta a las características particulares que presenta. Ej, si un niño tiene talento en matemáticas y se le escoge para una competición escolar, se contribuye al desarrollo de esa capacidad; Ej, una persona hostil que provoca, a su vez, respuestas defensivas y hostiles por parte de su entorno en respuesta a su conducta.|
 
-<th colspan="2">Correlación Genes-Ambientes (Sandra Scarr)</th>
-
-</tr>
-
-<tr>
-
-<td>**Pasiva**</td>
-
-<td>Padres e hijos comparten genes y ambiente. Los hijos reciben de forma pasiva ambientes asociados a sus inclinaciones genéticas. Ej. Los hijos de padres inteligentes recibirán, con mayor probabilidad, no solo una herencia favorable, sino un entorno más propicio para el desarrollo intelectual.</td>
-
-</tr>
-
-<tr>
-
-<td>**Activa**</td>
-
-<td>Se produce cuando una persona que presenta una característica heredada determinada busca de forma activa, selecciona y crea situaciones psicológicas y ambientales que conducen y favorecen el desarrollo de dicha característica. Ej, una persona extravertida generará situaciones de contacto social, que a su vez reforzarán su propia tendencia.</td>
-
-</tr>
-
-<tr>
-
-<td>**Reactiva**</td>
-
-<td>Tiene lugar cada vez que una persona recibe una reacción del ambiente en respuesta a las características particulares que presenta. Ej, si un niño tiene talento en matemáticas y se le escoge para una competición escolar, se contribuye al desarrollo de esa capacidad; Ej, una persona hostil que provoca, a su vez, respuestas defensivas y hostiles por parte de su entorno en respuesta a su conducta.</td>
-
-</tr>
-
-</tbody>
-
-</table>
 
 ### Constructos relevantes en la investigación sobre diferencias individuales
 
@@ -477,12 +447,12 @@ Características definitorias de los rasgos:
        - Nivel de actos o cogniciones **habituales**.
        - Nivel de **rasgos** o factores primarios definidos en términos de intercorrelaciones significativas entre conductas habituales.
        - Nivel de **tipos**, o factores de orden superior, o de segundo orden, derivados de las intercorrelaciones existentes entre los rasgos o factores de primer orden.
-          <table border='1'>
-          <tr><th>Niveles</th><th>Generalidad</th><th>Ejemplo</th></tr>
-               <tr><td>Respuesta **específica**</td><td>El menos general</td><td>Una persona se enfada y se siente culpable en una circunstancia concreta</td></tr>
-               <tr><td>Respuesta **habitual**</td><td>Poco general</td><td>Una persona suele enfadarse y gritar en su relación con la familia</td></tr>
-               <tr><td>**Rasgo**</td><td>General</td><td>Una persona se enfada habitualmente y tiene sentimientos de culpabilidad y ansiedad tanto en su casa como en el trabajo</td></tr>
-               <tr><td>**Tipo**</td><td>El más general</td><td>La tendencia a enfadarse y sentirse culpable de una persona presenta, además, junto a otros rasgos como sentir ansiedad, tensión, pensamientos irracionales, estado de ánimo deprimido y cambios emocionales. La evaluación de rasgos nos conduce a calificar a la persona en el polo del “Neuroticismo”</td></tr></table>
+          |Niveles|Generalidad|Ejemplo|
+          |---|---|---|
+          |Respuesta **específica**|El menos general|Una persona se enfada y se siente culpable en una circunstancia concreta|
+          |Respuesta **habitual**|Poco general|Una persona suele enfadarse y gritar en su relación con la familia|
+          |**Rasgo**|General|Una persona se enfada habitualmente y tiene sentimientos de culpabilidad y ansiedad tanto en su casa como en el trabajo|
+          |**Tipo**|El más general|La tendencia a enfadarse y sentirse culpable de una persona presenta, además, junto a otros rasgos como sentir ansiedad, tensión, pensamientos irracionales, estado de ánimo deprimido y cambios emocionales. La evaluación de rasgos nos conduce a calificar a la persona en el polo del “Neuroticismo”|
      - A diferencia de las estructuras propuestas en el estudio de la inteligencia, en la personalidad, no se hace referencia a un factor único, o dimensión última de carácter global, que pueda denominarse personalidad.
 
 <nav>pág. 133</nav>

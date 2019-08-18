@@ -126,7 +126,7 @@ La preponderancia inicial de las dos primeras, permite explicar en parte las raz
 De acuerdo con la **Teoría de la Inversión**, La Creatividad requiere la **confluencia de 6 recursos distintos pero interrelacionados**:
 * **Habilidades Intelectuales**: Son las propuestas por la teoría triarquica de la inteligencia de Sternberg:
   * **Inteligencia creativa o sintética** (habilidad para ver los problemas de diferente manera y traspasar los límites del pensamiento convencional).
-  * I**nteligencia Analítica** (reconocer cuáles de las ideas que uno genera son valiosas y cuáles no).
+  * **Inteligencia Analítica** (reconocer cuáles de las ideas que uno genera son valiosas y cuáles no).
   * **Inteligencia Práctica-Contextual** (conocer cómo persuadir a otros acerca del valor de las propias ideas; vender esas ideas).
 * **Conocimiento**. La persona creativa necesita conocer el dominio en el que se encuentra para avanzar y proponer nuevos retos.
 * **Estilos de Pensamiento**. Preferencia por modos nuevos de pensamiento. Esta preferencia debe distinguirse de la habilidad para pensar creativamente. Además de pensar originalmente, el individuo creativo debe hacerlo bien, saber reconocer qué es importante.

@@ -1,7 +1,7 @@
 # Apuntes de psicología de las diferencias individuales - UNED
 ## Autora: Cari Blanco Rodríguez
 
-Este trabajo es una conversión a formato epub de los apuntes de Caridad Blanco Rodríguez (con permiso de la autora).
+Este trabajo es una conversión a formato libro electrónico de los apuntes de Caridad Blanco Rodríguez (con permiso de la autora).
 
 La finalidad es **únicamente** tener un documento esquemático que pueda leerse fácilmente en teléfonos móviles, tabletas, lectores de tinta electrónica, etc. **En ningún caso** sustituye al manual de la asignatura. Hay que tener en cuenta, además, que en cada curso académico puede variar el contenido que, sobre el libro, es materia de examen.
 

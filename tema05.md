@@ -315,6 +315,8 @@ Se puede evaluar mediante test que miden la potencialidad biológica que tiene e
 El desarrollo intelectual  puede alargarse en la medida en que el contexto vivencial potencie dicho desarrollo. Se puede evaluar mediante test que evalúen los conocimientos adquiridos a través de la interacción con el medio socio-cultural. Se representa como un diamante (sólido, valioso y trabajado a partir del ambiente y del aprendizaje). Esta inteligencia es creciente desde la juventud hasta la vejez. Su manifestación preponderante es en tareas cognitivas complejas.
 </div>
 
+<nav>pág. 251</nav>
+
 <table border='1'>
 <tr><th>Características</th><th>Inteligencia Fluida (Cf)</th><th>Inteligencia  Cristalizada (Gc)</th></tr>
 <tr><th>Metáfora del Ordenador</th><td>Hardware (aspecto estructural)</td><td>Software (aspecto funcional)</td></tr>
@@ -325,13 +327,14 @@ El desarrollo intelectual  puede alargarse en la medida en que el contexto viven
 <li>Relaciones y Clasificaciones Figurativas</li>
 <li>Velocidad y Operaciones Perceptivas</li>
 <li>Amplitud de Memoria Asociativa</li>
-<li>Rapidez Intelectual</li></ul></td><td><ul>
+<li>Rapidez Intelectual</li>
+<li>Orientación Espacial</li></ul></td><td><ul>
 <li>Comprensión Verbal y Riqueza de vocabulario</li>
 <li>Relaciones Semánticas</li>
 <li>Evaluación y Valoración de la Experiencia</li>
 <li>Realización de Juicios y Obtención de Conclusiones</li>
 <li>Conocimientos Mecánicos</li>
-<li>Orientación Espacial</li></ul></td></tr>
+</ul></td></tr>
 <tr><th>Determinación Primordial</th><td>Biológica (predisposición genética)</td><td>Cultural/Ambiental (basada en Aprendizaje y Experiencia)</td></tr>
 <tr><th>Curso Evolutivo de la Inteligencia</th><td>Decrece desde la juventud a la vejez</td><td>Crece desde la juventud a la vejez</td></tr>
 </table>

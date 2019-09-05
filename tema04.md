@@ -317,7 +317,7 @@ Cuando el conocimiento de las variables que se van a estudiar permite establecer
 
 ###### Diseños Propiamente Comparativos 
 
-Son calificados de b que, a diferencia de los correlacionales, no están fundamentados en la estimación de covariaciones sino en el **análisis comparativo de valores medios**.
+Son calificados de "_planes experimentales_" que, a diferencia de los correlacionales, no están fundamentados en la estimación de covariaciones sino en el **análisis comparativo de valores medios**.
 
 Estudia si existen diferencias significativas al comparar las puntuaciones medias que obtienen diferentes grupos en la VD de interés; responderían a este apartado las investigaciones que analizan como efecto principal las diferencias existentes entre niveles representativos de una VI ligada a características personales no manipulables. Dentro de estos diseños también se **incluyen** las **diferencias intergrupales**.
 * Ej, Se pueden formar tres grupos según su grado de neuroticismo (alto, medio, bajo) y compararlo con el grado de rendimiento ante un test de inteligencia (VD).

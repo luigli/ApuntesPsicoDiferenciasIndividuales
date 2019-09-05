@@ -6,7 +6,7 @@
         {
             "label": "Compilar Markdown tema 12",
             "type": "shell",
-            "command": "markdown-it tema12.md -o tema12.xhtml",
+            "command": "markdown-it tema12.md -o xhtml/tema12.xhtml",
             "group": {
                 "kind": "build",
                 "isDefault": true
@@ -16,73 +16,73 @@
         {
             "label": "Compilar Markdown tema 11",
             "type": "shell",
-            "command": "markdown-it tema11.md -o tema11.xhtml",
+            "command": "markdown-it tema11.md -o xhtml/tema11.xhtml",
             "problemMatcher": []
         },
         {
             "label": "Compilar Markdown tema 10",
             "type": "shell",
-            "command": "markdown-it tema10.md -o tema10.xhtml",
+            "command": "markdown-it tema10.md -o xhtml/tema10.xhtml",
             "problemMatcher": []
         },
         {
             "label": "Compilar Markdown tema 9",
             "type": "shell",
-            "command": "markdown-it tema09.md -o tema09.xhtml",
+            "command": "markdown-it tema09.md -o xhtml/tema09.xhtml",
             "problemMatcher": []
         },
         {
             "label": "Compilar Markdown tema 8",
             "type": "shell",
-            "command": "markdown-it tema08.md -o tema08.xhtml",
+            "command": "markdown-it tema08.md -o xhtml/tema08.xhtml",
             "problemMatcher": []
         },
         {
             "label": "Compilar Markdown tema 7",
             "type": "shell",
-            "command": "markdown-it tema07.md -o tema07.xhtml",
+            "command": "markdown-it tema07.md -o xhtml/tema07.xhtml",
             "problemMatcher": []
         },
         {
             "label": "Compilar Markdown tema 6",
             "type": "shell",
-            "command": "markdown-it tema06.md -o tema06.xhtml",
+            "command": "markdown-it tema06.md -o xhtml/tema06.xhtml",
             "problemMatcher": []
         },
         {
             "label": "Compilar Markdown tema 5",
             "type": "shell",
-            "command": "markdown-it tema05.md -o tema05.xhtml",
+            "command": "markdown-it tema05.md -o xhtml/tema05.xhtml",
             "problemMatcher": []
         },
         {
             "label": "Compilar Markdown tema 4",
             "type": "shell",
-            "command": "markdown-it tema04.md -o tema04.xhtml",
+            "command": "markdown-it tema04.md -o xhtml/tema04.xhtml",
             "problemMatcher": []
         },
         {
             "label": "Compilar Markdown tema 3",
             "type": "shell",
-            "command": "markdown-it tema03.md -o tema03.xhtml",
+            "command": "markdown-it tema03.md -o xhtml/tema03.xhtml",
             "problemMatcher": []
         },
         {
             "label": "Compilar Markdown tema 2",
             "type": "shell",
-            "command": "markdown-it tema02.md -o tema02.xhtml",
+            "command": "markdown-it tema02.md -o xhtml/tema02.xhtml",
             "problemMatcher": []
         },
         {
             "label": "Compilar Markdown tema 1",
             "type": "shell",
-            "command": "markdown-it tema01.md -o tema01.xhtml",
+            "command": "markdown-it tema01.md -o xhtml/tema01.xhtml",
             "problemMatcher": []
         },
         {
             "label": "Compilar Markdown Prólogo",
             "type": "shell",
-            "command": "markdown-it prologo_libro.md -o prologo_libro.xhtml",
+            "command": "markdown-it prologo_libro.md -o xhtml/prologo_libro.xhtml",
             "problemMatcher": []
         }
 
